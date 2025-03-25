@@ -13,13 +13,13 @@ This project was developed as part of Group 16's final project for COMPSCI 4NL3 
 
 ## Project Structure
 The repository includes the following files:
-- `logistic_regression_model.pid`: Model file for logistic regression.
+- `logistic_regression_model.pkl`: Model file for logistic regression.
 - `main.py`: Python script containing the implementation of the classification models.
 - `test_set.csv`: Test dataset for evaluation.
-- `test_prediction.csv`: Predicted labels for the test dataset.
-- `tfidf_vectorizer.pid`: Vectorizer file for TF-IDF transformation.
+- `test_predictions.csv`: Predicted labels for the test dataset.
+- `tfidf_vectorizer.pkl`: Vectorizer file for TF-IDF transformation.
 - `train_set.csv`: Training dataset.
-- `validation.csv`: Validation dataset.
+- `validation_set.csv`: Validation dataset.
 
 ## Models Implemented
 1. **Logistic Regression**: A linear model for classification tasks.
