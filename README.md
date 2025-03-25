@@ -18,7 +18,7 @@ The repository includes the following files:
 - `test_set.csv`: Test dataset for evaluation.
 - `test_prediction.csv`: Predicted labels for the test dataset.
 - `tfidf_vectorizer.pid`: Vectorizer file for TF-IDF transformation.
-- `train.csv`: Training dataset.
+- `train_set.csv`: Training dataset.
 - `validation.csv`: Validation dataset.
 
 ## Models Implemented
