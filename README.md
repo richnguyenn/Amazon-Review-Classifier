@@ -51,7 +51,7 @@ The repository is configured for compatibility with Codabench, allowing for easy
      ```
 
 ## Results
-The predictions for the test dataset are stored in `test_prediction.csv`.
+The predictions for the test dataset are stored in `test_predictions.csv`.
 
 ## Contributors
 - [Richard Nguyen](https://github.com/richnguyenn)
